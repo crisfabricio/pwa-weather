@@ -1,1 +1,2 @@
-# pwa-weather
+# my-pwa-labs
+My progressive web apps labs
